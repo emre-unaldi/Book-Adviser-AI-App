@@ -2,6 +2,12 @@
 <div align="center"><h1> :sparkles: BOOK ADVICER PROJECT :sparkles: </h1> </div>
 <div align="center"><h2> 🚥 FULL STACK AI PROJECT 🚥 </h2> </div>
 
+## Introduction
+> This backend project is booted with [Java Spring Boot](https://spring.io)
+ 
+> This frontend project is booted with [React.js - Vite](https://react.dev/)
+
+> This project is a full-stack AI project using Spring Boot AI and front-end coded in Reactjs. The purpose of this project is to list similar books with their features in relation to the entered book data.
 
 ## Technology stacks
 
