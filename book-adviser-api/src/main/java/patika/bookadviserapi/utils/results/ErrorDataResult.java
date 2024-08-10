@@ -13,7 +13,7 @@ public class ErrorDataResult<T> extends DataResult<T> {
     }
 
     public ErrorDataResult(T data) {
-        super(data, "500", "Başarısız", new Date());
+        super(data, "500", "Failed", new Date());
     }
 
     public ErrorDataResult(String message) {
@@ -21,7 +21,7 @@ public class ErrorDataResult<T> extends DataResult<T> {
     }
 
     public ErrorDataResult() {
-        super(null, "500", "Başarısız", new Date());
+        super(null, "500", "Failed", new Date());
     }
 
 }

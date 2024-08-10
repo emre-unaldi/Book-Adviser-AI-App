@@ -1,7 +1,6 @@
 package patika.bookadviserapi.model.dto.response;
 
 import lombok.*;
-import org.springframework.data.annotation.Id;
 import patika.bookadviserapi.model.Book;
 
 import java.util.ArrayList;

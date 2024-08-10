@@ -1,7 +1,5 @@
 package patika.bookadviserapi.controller;
 
-import lombok.Data;
-import lombok.Getter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import patika.bookadviserapi.model.dto.request.BookDbSaveRequest;
